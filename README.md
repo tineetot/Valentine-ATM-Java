@@ -31,4 +31,3 @@ As a first-semester project, this application focuses on several key programming
    ```bash
    javac ATM.java
    
-![Project Preview](ATM-preview.png)
