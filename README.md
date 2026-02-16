@@ -30,3 +30,5 @@ As a first-semester project, this application focuses on several key programming
 3. Compile the code:
    ```bash
    javac ATM.java
+   
+![Project Preview](Valen(tine)_ATM_Preview.png)
